@@ -4,6 +4,6 @@ MongoDB <img height="40" width="50" src="https://icongr.am/devicon/mongodb-origi
 
 <br>
 <div>
-Aplicação usando Node JS e MongoDB cloud, operações de CRUD e conexão por meio de api.
+Aplicação usando Node JS e MongoDB cloud, operações de CRUD e conexão por meio de api e mongoose.
 </div>
 
